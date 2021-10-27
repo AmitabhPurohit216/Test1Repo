@@ -1,0 +1,30 @@
+
+github
+apurohit714@gmail.com
+amitabh.purohit@bd.com jya@123
+
+
+
+
+https://dev.azure.com/AmitabhPurohit0286/
+jyam@123
+
+azure free
+
+amitabh.shivaay.purohit@outlook.com
+
+8130523337
+
+----------------------kpi
+active directory
+new app registration
+new client screate
+
+
+  pool:
+    name: self hosted
+    demands:
+    - agent.name -equals IND04-L-33C1KW2
+
+
+
